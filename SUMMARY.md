@@ -7,3 +7,4 @@
   * [抽象工厂模式](BuildPattern/AbstractFactoryPattern/AbstractFactory.md)
   * [工厂模式总结](BuildPattern/SummaryFactory/SummaryFactory.md)
   * [建造者模式](BuildPattern/BuilderPattern/BuilderPattern.md)
+  * [单例模式](BuildPattern/SingletonPattern/SingletonPattern.md)
