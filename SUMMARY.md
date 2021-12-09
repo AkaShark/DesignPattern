@@ -10,3 +10,4 @@
   * [单例模式](BuildPattern/SingletonPattern/SingletonPattern.md)
 
 * [结构型模式](StructuralPattern/README.md)
+	* [适配器模式](StructuralPattern/AdapterPattern/AdapterPattern.md)
