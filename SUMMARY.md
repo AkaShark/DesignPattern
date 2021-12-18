@@ -12,3 +12,4 @@
 * [结构型模式](StructuralPattern/README.md)
 	* [适配器模式](StructuralPattern/AdapterPattern/AdapterPattern.md)
 	* [桥接模式](StructuralPattern/BridgePattern/BridgePattern.md)
+	* [装饰模式](StructuralPattern/DecoratorPattern/DecoratorPattern.md)
