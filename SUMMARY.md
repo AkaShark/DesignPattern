@@ -14,5 +14,5 @@
 	* [桥接模式](StructuralPattern/BridgePattern/BridgePattern.md)
 	* [装饰模式](StructuralPattern/DecoratorPattern/DecoratorPattern.md)
 	* [外观模式](StructuralPattern/FacadePattern/FacadePattern.md)
-	* [享元模式](SructuralPattern/FlyweightPattern/FlyweightPattern.md)
-
+	* [享元模式](StructuralPattern/FlyweightPattern/FlyweightPattern.md)
+	* [代理模式](StructuralPattern/ProxyPattern/ProxyPattern.md)
