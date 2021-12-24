@@ -16,3 +16,8 @@
 	* [外观模式](StructuralPattern/FacadePattern/FacadePattern.md)
 	* [享元模式](StructuralPattern/FlyweightPattern/FlyweightPattern.md)
 	* [代理模式](StructuralPattern/ProxyPattern/ProxyPattern.md)
+* [行为模式](BehavioralPattern/README.md)
+	* [命令模式](BehavioralPattern/CommondPattern/CommondPattern.md)
+
+
+
