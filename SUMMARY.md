@@ -18,6 +18,6 @@
 	* [代理模式](StructuralPattern/ProxyPattern/ProxyPattern.md)
 * [行为模式](BehavioralPattern/README.md)
 	* [命令模式](BehavioralPattern/CommondPattern/CommondPattern.md)
-
+	* [中介者模式](BehavioralPattern/MediatorPattern/MediatorPattern.md)
 
 
