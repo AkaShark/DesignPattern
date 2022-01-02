@@ -19,5 +19,5 @@
 * [行为模式](BehavioralPattern/README.md)
 	* [命令模式](BehavioralPattern/CommondPattern/CommondPattern.md)
 	* [中介者模式](BehavioralPattern/MediatorPattern/MediatorPattern.md)
-
+	* [观察者模式](BehavioralPattern/ObserverPattern/ObserverPattern.md)
 
