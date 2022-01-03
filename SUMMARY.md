@@ -20,4 +20,4 @@
 	* [命令模式](BehavioralPattern/CommondPattern/CommondPattern.md)
 	* [中介者模式](BehavioralPattern/MediatorPattern/MediatorPattern.md)
 	* [观察者模式](BehavioralPattern/ObserverPattern/ObserverPattern.md)
-
+	* [状态模式](BehavioralPattern/StatePattern/StatePattern.md)
