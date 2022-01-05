@@ -20,7 +20,7 @@
   * [中介者模式](BehavioralPattern/MediatorPattern/MediatorPattern.md)
   * [观察者模式](BehavioralPattern/ObserverPattern/ObserverPattern.md)
   * [状态模式](BehavioralPattern/StatePattern/StatePattern.md)
-
+  * [策略模式](BehavioralPattern/StrategyPattern/StrategyPattern.md)
 
 * [设计原则](DesignPrinciple/README.md)
 
